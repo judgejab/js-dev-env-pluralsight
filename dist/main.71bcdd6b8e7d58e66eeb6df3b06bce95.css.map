@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///src/index.css"],"names":[],"mappings":"AAAA,KACE,yBAA2B,CAG7B,SACE,WAAY","file":"main.71bcdd6b8e7d58e66eeb6df3b06bce95.css","sourcesContent":["body {\n  font-family: Operator Mono;\n}\n\ntable th {\n  padding: 5px\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/index.css\n **/"],"sourceRoot":""}
